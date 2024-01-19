@@ -1,0 +1,10 @@
+Dataset link : https://drive.google.com/file/d/1qyaxVNDVFsJmSWXOSGaqnNXDwXqHKHRo/view?usp=sharing
+
+
+Question:
+
+1) Explore the distribution of player ages and their corresponding overall ratings. 
+2) Investigate the distribution of players across different clubs based on their nationality.
+3) Compare the skill ratings of players in different positions. Identify which positions tend to have higher ratings in attributes like passing, shooting, and defensive skills.
+4) Explore the relationship between player attributes (e.g., Overall, Potential, International Reputation)
+5) Analyze whether there is a correlation between the overall ratings of players and the competitive strength of the league they play in. 
